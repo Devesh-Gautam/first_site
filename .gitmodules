@@ -1,3 +1,4 @@
-submodule "themes/hugo-PaperMod-master"
-path="themes/hugo-PaperMod-master"
-url="https://github.com/adityatelange/hugo-PaperMod.git"
+[submodule "themes/hugo-PaperMod-master"]
+path=themes/hugo-PaperMod-master
+url=https://github.com/adityatelange/hugo-PaperMod.git
+branch=main

@@ -1,6 +1,6 @@
-baseURL = ''
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Beyond the bits and bytes'
+title = 'first_site'
 theme="hugo-PaperMod-master"
 
 [params]
