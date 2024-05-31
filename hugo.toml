@@ -1,0 +1,38 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Beyond the bits and bytes'
+theme="hugo-PaperMod-master"
+
+[params]
+  ShowShareButtons = true
+  ShowPostNavLinks =true
+  ShowToc=true
+
+  homeInfoParams = { Title = "Welcome to my Blog posted over present and past tech news!", Content = "Find me on social media:" }
+
+  [[params.socialIcons]]
+    name = "GitHub"
+    url = "https://github.com/Devesh-Gautam"
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://LinkedIn.com/yourusername"
+  # Add more social icons as needed
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Categories"
+    url = "/Categories/"
+    weight = 2  
+  [[menu.main]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 2
