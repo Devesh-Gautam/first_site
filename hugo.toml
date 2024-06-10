@@ -1,6 +1,6 @@
 baseURL = 'https://blogonelectronicsusinghugo.netlify.app/'
 languageCode = 'en-us'
-title = 'Blogs by Devesh'
+title = 'Blog on Electronics'
 theme="hugo-PaperMod-master"
 
 [params]
