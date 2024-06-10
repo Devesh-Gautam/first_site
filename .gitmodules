@@ -1,3 +1,3 @@
-[submodules="themes/hugo-PaperMod-master"]
+[submodule "themes/hugo-PaperMod-master"]
 path=themes/hugo-PaperMod-master
-url="https://github.com/Devesh-Gautam/blog_site_using_hugo"
+url=https://github.com/Devesh-Gautam/blog_site_using_hugo
